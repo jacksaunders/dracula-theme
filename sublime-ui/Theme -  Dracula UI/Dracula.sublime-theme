@@ -121,7 +121,7 @@
              * the tab. */
             {
                 "class": "tab_close_button",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/tab-close.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/tab-close.png",
                 "layer0.opacity": 0,
                 "content_margin": [8,8],
             },
@@ -154,7 +154,7 @@
             {
                 "class": "tab_close_button",
                 "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/tab-dirty.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/tab-dirty.png",
                 "layer0.tint": [241, 250, 140], // #fg.yellow
                 "layer0.opacity": 1
             },
@@ -164,7 +164,7 @@
             {
                 "class": "tab_close_button",
                 "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/tab-close.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/tab-close.png",
                 "attributes": ["hover"],
                 "layer0.opacity": 1,
                 "layer0.tint": [255, 85, 85] // #fg.red
@@ -279,7 +279,7 @@
             {
                 "class": "disclosure_button_control",
                 "content_margin": [8,8],
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/folder-closed.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/folder-closed.png",
                 "layer0.tint": [248, 248, 242], // #fg.white
                 "layer0.opacity": 0.1,          // very dim
                 "layer0.inner_margin": 0
@@ -297,7 +297,7 @@
             {
                 "class": "disclosure_button_control",
                 "attributes": ["expanded"],
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/folder-opened.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/folder-opened.png",
                 "layer0.tint": [80, 250, 123], // #fg.green, #btncolor
                 "layer0.opacity": 0.9
             },
@@ -641,7 +641,7 @@
             /* Regex search button */
             {
                 "class": "icon_regex",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-regex.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-regex.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -657,7 +657,7 @@
             /* Case insensitive search button */
             {
                 "class": "icon_case",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-insensitive.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-insensitive.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -673,7 +673,7 @@
             /* Match whole word search button */
             {
                 "class": "icon_whole_word",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-quote.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-quote.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -689,7 +689,7 @@
             /* Show search context button */
             {
                 "class": "icon_context",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-context.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-context.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -705,7 +705,7 @@
             /* Use search buffer button */
             {
                 "class": "icon_use_buffer",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-buffer.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-buffer.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -721,7 +721,7 @@
             /* Wrap search button */
             {
                 "class": "icon_wrap",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-loop.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-loop.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -737,7 +737,7 @@
             /* Search in selection button */
             {
                 "class": "icon_in_selection",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-text.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-text.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
@@ -753,7 +753,7 @@
             /* Highlight search results butotn */
             {
                 "class": "icon_highlight",
-                "layer0.texture": "Dracula Color Scheme/sublime-ui/assets/entypo/search-highlight.png",
+                "layer0.texture": "Theme - Dracula UI/assets/entypo/search-highlight.png",
                 "layer0.tint": [208, 208, 202], // #fg.gray
                 "layer0.opacity": 1,
                 "content_margin": 8
