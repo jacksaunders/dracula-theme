@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Dracula Theme v1.2.0
+<!-- Dracula Theme v1.2.5
 #
 # https://github.com/zenorocha/dracula-theme
 #
-# Copyright 2015, All rights reserved
+# Copyright 2016, All rights reserved
 #
 # Code licensed under the MIT license
 # http://zenorocha.mit-license.org
@@ -171,11 +171,11 @@
 	<key>Bold Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
@@ -198,11 +198,11 @@
 	<key>Foreground Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.94901961088180542</real>
+		<real>0.90032327175140381</real>
 		<key>Green Component</key>
-		<real>0.97254902124404907</real>
+		<real>0.90032327175140381</real>
 		<key>Red Component</key>
-		<real>0.97254902124404907</real>
+		<real>0.90032327175140381</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
